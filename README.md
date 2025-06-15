@@ -78,7 +78,7 @@
 <div align="center">
 <!-- Typing Animation Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=1ABC9C&width=440&height=45&lines=Thank+you+for+visiting!+Keep+building+%F0%9F%9A%80" alt="Typing Footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=1ABC9C&width=440&height=45&lines=Thank+you+for+visiting!+%F0%9F%9A%80" alt="Typing Footer"/>
 </p>
 
 
