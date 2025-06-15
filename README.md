@@ -9,16 +9,37 @@
 <br/>
 
 <div align="center">
- 
-🚗 I’m currently working on a university project called Safe Drive, where we’re developing a solution to prevent drunk driving — a collaborative effort with my university teammates.
 
-💻 I specialize in Java, PHP, and object-oriented programming, with solid backend development experience using Spring, Spring Boot, and relational databases.
+---
 
-🧑‍💻 As a full-stack developer, I’m also confident with React, Node.js, and Firebase, and currently expanding my skills in Docker, Supabase, and AWS to enhance cloud deployment and scalability.
+### 🚗 Current Project  
+**Safe Drive** — Developing a collaborative university project to prevent drunk driving with my team.  
 
-⚡ Fun fact: I hike to Sripadaya every year — it’s my personal tradition — and unwind with anime after long coding sessions.
+---
 
- </div>
+### 💻 Core Skills  
+- **Java** & **PHP** backend development  
+- Object-Oriented Programming (OOP)  
+- Spring Framework & Spring Boot  
+- Relational Databases (MySQL, PostgreSQL)  
+
+---
+
+### 🧑‍💻 Full-Stack Developer  
+- Frontend: **React**  
+- Backend: **Node.js**  
+- Cloud & Backend Services: **Firebase**  
+- Currently expanding skills in **Docker**, **Supabase**, and **AWS** for scalable cloud solutions  
+
+---
+
+### ⚡ Fun Fact  
+I hike to **Sripadaya** every year — a personal tradition — and unwind by watching **anime** after long coding sessions.
+
+---
+
+</div>
+
  
 <div align="center">
   <a href="mailto:padbdilshan@gmail.com" target="_blank" rel="noopener noreferrer">
