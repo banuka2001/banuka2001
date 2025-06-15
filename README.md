@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=java,php,javascript,typescript,html,css,c,python" />
     <img src="https://skillicons.dev/icons?i=spring,react,nodejs,firebase,mysql,postgres,docker,aws" />
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind" />
+    <br>
  <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </div>
 
