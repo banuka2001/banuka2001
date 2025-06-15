@@ -18,18 +18,18 @@
 ---
 
 ### 💻 Core Skills  
-- **Java** & **PHP** backend development  
-- Object-Oriented Programming (OOP)  
-- Spring Framework & Spring Boot  
-- Relational Databases (MySQL, PostgreSQL)  
+ **Java** & **PHP** backend development  
+ Object-Oriented Programming (OOP)  
+ Spring Framework & Spring Boot  
+ Relational Databases (MySQL, PostgreSQL)  
 
 ---
 
 ### 🧑‍💻 Full-Stack Developer  
-- Frontend: **React**  
-- Backend: **Node.js**  
-- Cloud & Backend Services: **Firebase**  
-- Currently expanding skills in **Docker**, **Supabase**, and **AWS** for scalable cloud solutions  
+ Frontend: **React**  
+ Backend: **Node.js , Spring Boot**   
+ Cloud & Backend Services: **Firebase**  
+ Currently expanding skills in **Docker**, **Supabase**, and **AWS** for scalable cloud solutions  
 
 ---
 
