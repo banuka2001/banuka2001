@@ -20,18 +20,29 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:padbdilshan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="center">
+  <a href="mailto:padbdilshan@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" 
+      alt="Email Banuka"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/banuka-dilshan-b41331140/" target="_blank">
 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/banuka-dilshan-b41331140/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="Banuka LinkedIn"
+    />
   </a>
-  <a href="https://banuka2001.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+
+  <a href="https://banuka2001.github.io/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" 
+      alt="Banuka Portfolio"
+    />
   </a>
 </div>
+
 
  <hr/>
  
