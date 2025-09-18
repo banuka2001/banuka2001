@@ -13,7 +13,7 @@
 ---
 
 ### 🚗 Current Project  
-**Safe Drive** — Developing a collaborative university project to prevent drunk driving with my team.  
+**Safe Drive** — Developing a project to prevent drunk driving.
 
 ---
 
