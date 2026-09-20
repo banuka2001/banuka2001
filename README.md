@@ -13,7 +13,7 @@
 ---
 
 ### 🚗 Current Project  
-**Safe Drive** — Developing a project to prevent drunk driving.
+**Smart Fashion Shop** — Developing a project for client in Imaduwa Galle.
 
 ---
 
